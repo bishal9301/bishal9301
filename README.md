@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishal Sah</h1>
-<h3 align="center">A Pre-final Year Student from MNNIT-CSE</h3>
+<h3 align="center">A Final Year Student from MNNIT-CSE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal9301&label=Profile%20views&color=0e75b6&style=flat" alt="bishal9301" /> </p>
 
